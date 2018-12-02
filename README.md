@@ -11,4 +11,7 @@
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu614.png)
 
+### [Download Disk Speed Test](https://github.com/chris1111/Disk-Speed-Test/releases/tag/V1)
+
+
 ### [Credit: Amsys](https://www.amsys.co.uk/using-command-line-to-benchmark-disks/)
