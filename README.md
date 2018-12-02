@@ -14,6 +14,10 @@
 
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu614.png)
 
+### USAGE:
+- No -1- Open the disk image and move the applications into the desktop icon
+- No -2- Start the applications
+
 ### [Download Disk Speed Test](https://github.com/chris1111/Disk-Speed-Test/releases/tag/V1)
 
 
