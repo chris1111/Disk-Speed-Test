@@ -9,7 +9,7 @@
 ### Intro:
 
 - Disk Speed Test is a simple application that I created to calculate the speed of writing and reading disk under macOS
-- Works from 10.9 to macOS Mojave 10.14 (works in Dark Mode)
+- Works from OS X Mavericks 10.9 to macOS Big Sur 11
 - To do this the application uses the Command Line write=$(dd and read=$(dd
 
 
